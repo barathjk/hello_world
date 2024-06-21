@@ -40,3 +40,9 @@ The final result should be like this, to add the values of all dict of dict valu
 	"Full": {"Concept": 0, "Design": 0, "Ready": 0, "Obsolete": 0, "Deleted": 0},
         "Zedis": {"Concept": 0, "Design": 0, "Ready": 0, "Obsolete": 0, "Deleted": 0},
 	},}
+
+
+
+
+
+ how to remove duplicates here 'SWP-31380#SWP-41920#SWP-31380#SWP-35224#SWP-31380#SWP-28509#SWP-12345#SWP-28509#SWP-35224#SWP-42302#SWP-31380#SWP-41913#SWP-31380'
